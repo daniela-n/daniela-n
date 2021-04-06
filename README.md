@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @daniela-n
 - 👀 I’m interested in all things tech and design
 - 🌱 I’m currently learning how to use github
-- 💞️ I’m currently looking for a fun job with lots of great challenges and opportunities to learn
+- 💞️ I’m looking for a fun job with lots of great challenges and opportunities to learn
 - 📫 Check out my website for more
 
 <!---
