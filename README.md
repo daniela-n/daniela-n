@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @daniela-n
 - 👀 I’m interested in all things tech and design
-- 🌱 I’m currently geeking out about JavaScript
-- 💞️ I’m looking for a fun job with lots of great challenges and opportunities to learn
+- 🌱 I’m currently geeking out over Angular and TypeScript
+- 💞️ I’m always looking for opportunities to learn and challenge myself.
 - 📫 Check out my website for more
 
 <!---
